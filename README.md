@@ -1,6 +1,6 @@
 # URL Shortener - Modern Web Application
 
-![Project Screenshot](./public/screenshot.png)
+![Project Screenshot](/Frontend/public/screenshot.png)
 
 A full-stack URL shortening service with analytics, built with React, Express, MongoDB, and Tailwind CSS. Features dark mode, animations, and a beautiful UI.
 
